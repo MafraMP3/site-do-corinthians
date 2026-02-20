@@ -46,6 +46,13 @@
     p{
         font-size: smaller;
     }
+    #escalacao{
+        text-align: center;
+        justify-content: space-around;
+        padding: 2px;
+        align-items: center ;
+        flex-wrap: wrap;  
+    }
     body{
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         margin: 0px;
