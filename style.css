@@ -64,6 +64,11 @@
         display: flex;
         justify-content: space-between;
     }
+
+    #gifaguia{
+        position: fixed; bottom: 0px; right: 0px;
+        z-index: 1000;
+    }
     body{
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         margin: 0px;
