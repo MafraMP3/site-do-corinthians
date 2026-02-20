@@ -67,7 +67,8 @@
 
     #gifaguia{
         position: fixed; bottom: 0px; right: 0px;
-        z-index: 1000;
+        z-index: 0;
+        width: 200px;
     }
     body{
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
