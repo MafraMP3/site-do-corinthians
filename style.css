@@ -51,7 +51,18 @@
         justify-content: space-around;
         padding: 2px;
         align-items: center ;
-        flex-wrap: wrap;  
+        color: rgb(22, 20, 20);
+        background-color: rgb(255, 255, 255);
+        margin: 20px;
+    }
+    #Icone-jogador{
+        width: 100px; 
+    }
+
+    #jogadores{
+        justify-content: center;
+        display: flex;
+        justify-content: space-between;
     }
     body{
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
